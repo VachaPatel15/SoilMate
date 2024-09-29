@@ -1,0 +1,14 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql+pymysql://root:@localhost/SoilMate-blog",
+        "prod_uri": "mysql+pymysql://root:@localhost/SoilMate-blog",
+        "fb_url": "https://www.facebook.com/narendramodi/",
+        "gh_url" : "https://github.com/VachaPatel15",
+        "tw_url" : "https://twitter.com/narendramodi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "gmail-user": "vachapatel8765@gmail.com",
+        "gmail-password":"krtqiiqbrjgrnknx",
+        "no_of_posts":5
+    }
+}
